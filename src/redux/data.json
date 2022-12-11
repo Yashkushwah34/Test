@@ -1,0 +1,3673 @@
+[
+  {
+    "id": "f071a4c5-4ec3-4713-8ac1-9e6462f4cf43",
+    "profileImage": "http://dummyimage.com/182x203.png/5fa2dd/ffffff",
+    "name": "Boot Camilli",
+    "application": null,
+    "totalSpend(YTD)": 9,
+    "activeContract": false,
+    "source": "Masonry",
+    "totalSpend(12Months)": 43,
+    "contractValue": 24
+  },
+  {
+    "id": "560748c8-1aa5-4b95-affc-d63f64b7191f",
+    "profileImage": "http://dummyimage.com/147x240.png/ff4444/ffffff",
+    "name": "Gerardo Mulbry",
+    "application": [
+      {
+        "id": "95b172be-e5d6-4565-b5d5-04edd94f0d31",
+        "name": "Fix San",
+        "category": "Epoxy Flooring",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 57,
+        "paymentTerms": true
+      }
+    ],
+    "totalSpend(YTD)": 51,
+    "activeContract": true,
+    "source": "Asphalt Paving",
+    "totalSpend(12Months)": 87,
+    "contractValue": 80
+  },
+  {
+    "id": "b92b79f3-72f9-464d-9630-2b26dc13423f",
+    "profileImage": "http://dummyimage.com/245x218.png/dddddd/000000",
+    "name": "Goldie Coulthard",
+    "application": [
+      {
+        "id": "95abb0e8-a22c-4d43-a3fa-148de8f6b293",
+        "name": "Fintone",
+        "category": "Structural & Misc Steel Erection",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 54,
+        "paymentTerms": false
+      },
+      {
+        "id": "7025d0ea-156e-406b-9b49-a43da9634930",
+        "name": "Toughjoyfax",
+        "category": "Ornamental Railings",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 3,
+        "paymentTerms": false
+      },
+      {
+        "id": "ada1660d-0330-4891-8c29-a644a43ea9f3",
+        "name": "Greenlam",
+        "category": "Framing (Wood)",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 27,
+        "paymentTerms": true
+      },
+      {
+        "id": "4f58ea8d-1c70-4d36-b02e-0d050a486def",
+        "name": "Subin",
+        "category": "Roofing (Asphalt)",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 71,
+        "paymentTerms": true
+      },
+      {
+        "id": "4bb1abfd-82e9-43f3-8fdc-c0dbcbfedaaa",
+        "name": "Pannier",
+        "category": "Electrical",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 49,
+        "paymentTerms": true
+      },
+      {
+        "id": "a54fedab-a76b-4146-b7cd-6102debde320",
+        "name": "Bytecard",
+        "category": "Construction Clean and Final Clean",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 67,
+        "paymentTerms": false
+      },
+      {
+        "id": "2f7f1d8f-79fd-42bc-a779-dd5f917726c6",
+        "name": "Fintone",
+        "category": "Roofing (Asphalt)",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 21,
+        "paymentTerms": true
+      }
+    ],
+    "totalSpend(YTD)": 89,
+    "activeContract": true,
+    "source": "Structural & Misc Steel Erection",
+    "totalSpend(12Months)": 49,
+    "contractValue": 54
+  },
+  {
+    "id": "bc9788f1-5996-45a0-ac2d-ec0e08170525",
+    "profileImage": "http://dummyimage.com/188x168.png/cc0000/ffffff",
+    "name": "Susana Izon",
+    "application": null,
+    "totalSpend(YTD)": 31,
+    "activeContract": false,
+    "source": "Fire Sprinkler System",
+    "totalSpend(12Months)": 46,
+    "contractValue": 86
+  },
+  {
+    "id": "797ec6d4-1fdf-49a9-bee3-6c5c978b5cbb",
+    "profileImage": "http://dummyimage.com/141x176.png/dddddd/000000",
+    "name": "Isadora Semmens",
+    "application": [
+      {
+        "id": "827accec-1cc0-4483-8058-70c793610e2b",
+        "name": "Tin",
+        "category": "Granite Surfaces",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 91,
+        "paymentTerms": false
+      },
+      {
+        "id": "cc3db7f2-fd47-4172-aa7d-bb2b78f279f1",
+        "name": "Y-find",
+        "category": "Roofing (Asphalt)",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 98,
+        "paymentTerms": false
+      },
+      {
+        "id": "3f061a6e-5ccf-4c55-a7d6-0adaa43bce5e",
+        "name": "Bytecard",
+        "category": "Electrical and Fire Alarm",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 37,
+        "paymentTerms": false
+      },
+      {
+        "id": "785bdad7-9b9f-4f4e-ba69-31b445a80da1",
+        "name": "Regrant",
+        "category": "Framing (Wood)",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 15,
+        "paymentTerms": true
+      },
+      {
+        "id": "32c0e6c5-c625-422b-9f44-4d9cd22dee9c",
+        "name": "Voltsillam",
+        "category": "Asphalt Paving",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 55,
+        "paymentTerms": false
+      },
+      {
+        "id": "a4402406-e58c-4009-9943-21e29cd5b286",
+        "name": "Y-Solowarm",
+        "category": "Epoxy Flooring",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 67,
+        "paymentTerms": null
+      },
+      {
+        "id": "a1363b1f-dc47-4e8c-809f-c9726bd7d8cb",
+        "name": "Cookley",
+        "category": "Masonry & Precast",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 99,
+        "paymentTerms": false
+      },
+      {
+        "id": "fbf217be-9b3e-41e8-bb26-4ecd7537dd69",
+        "name": "Hatity",
+        "category": "Glass & Glazing",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 45,
+        "paymentTerms": true
+      },
+      {
+        "id": "7c926e57-2d42-4556-be71-1b4371d8a930",
+        "name": "Bigtax",
+        "category": "Masonry",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 46,
+        "paymentTerms": false
+      },
+      {
+        "id": "db70fb6b-1f21-4a73-8faa-4ab3b292a29e",
+        "name": "Daltfresh",
+        "category": "Framing (Wood)",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 28,
+        "paymentTerms": true
+      },
+      {
+        "id": "49823cb4-c822-4991-909c-bcb297bd0075",
+        "name": "Cardify",
+        "category": "Drywall & Acoustical (FED)",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 13,
+        "paymentTerms": false
+      },
+      {
+        "id": "d6b1822a-895d-4382-aff8-91c90a655376",
+        "name": "Sub-Ex",
+        "category": "Roofing (Asphalt)",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 36,
+        "paymentTerms": false
+      },
+      {
+        "id": "9831e098-aacd-490c-bae6-fb72d2a0de4d",
+        "name": "Gembucket",
+        "category": "Elevator",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 96,
+        "paymentTerms": true
+      },
+      {
+        "id": "58eb1edd-d4fd-4cfb-97ef-dade1c418d29",
+        "name": "Vagram",
+        "category": "Wall Protection",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 72,
+        "paymentTerms": true
+      },
+      {
+        "id": "7453ee2c-68e4-4c4d-9655-ddc2a46471fc",
+        "name": "Treeflex",
+        "category": "Masonry",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 49,
+        "paymentTerms": null
+      },
+      {
+        "id": "0d11fb5a-9386-4254-b4e8-e8c6a90d2926",
+        "name": "Kanlam",
+        "category": "Landscaping & Irrigation",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 63,
+        "paymentTerms": false
+      },
+      {
+        "id": "4f0e0a5c-9968-4f76-bf2f-80ac305ae655",
+        "name": "Otcom",
+        "category": "Structural and Misc Steel (Fabrication)",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 45,
+        "paymentTerms": false
+      },
+      {
+        "id": "7ed4ab74-c10c-4013-bf61-d1621be32689",
+        "name": "Fintone",
+        "category": "Masonry & Precast",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 19,
+        "paymentTerms": null
+      },
+      {
+        "id": "a29e095d-abcf-4bd2-a45d-842f1d1d9af1",
+        "name": "Flexidy",
+        "category": "Doors, Frames & Hardware",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 69,
+        "paymentTerms": false
+      },
+      {
+        "id": "f65d43d3-d55e-44d4-9705-e5ff791644ad",
+        "name": "Prodder",
+        "category": "Fire Protection",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 25,
+        "paymentTerms": false
+      }
+    ],
+    "totalSpend(YTD)": 3,
+    "activeContract": false,
+    "source": "Waterproofing & Caulking",
+    "totalSpend(12Months)": 18,
+    "contractValue": 31
+  },
+  {
+    "id": "e88fa73c-5e35-4a97-95b9-e0b92af98f37",
+    "profileImage": "http://dummyimage.com/143x193.png/cc0000/ffffff",
+    "name": "Biron Stiegers",
+    "application": [
+      {
+        "id": "5224f439-8f24-4f13-a8a2-631c242281ed",
+        "name": "Y-Solowarm",
+        "category": "Masonry",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 87,
+        "paymentTerms": false
+      },
+      {
+        "id": "6eca7b69-7c0f-4587-ad68-d21bf04f0e45",
+        "name": "Alpha",
+        "category": "Drywall & Acoustical (MOB)",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 100,
+        "paymentTerms": false
+      },
+      {
+        "id": "b7a14e79-d139-4ff7-baa8-b819acf1af18",
+        "name": "It",
+        "category": "Construction Clean and Final Clean",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 46,
+        "paymentTerms": true
+      },
+      {
+        "id": "a4f1da35-20d7-4a17-a9c6-6009c2d7a5c9",
+        "name": "Y-find",
+        "category": "Sitework & Site Utilities",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 29,
+        "paymentTerms": false
+      },
+      {
+        "id": "93d9c962-ee49-49aa-a940-51f0687a75cc",
+        "name": "Subin",
+        "category": "Ornamental Railings",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 4,
+        "paymentTerms": true
+      },
+      {
+        "id": "76133184-fcba-4fbf-9554-33d0590a04ea",
+        "name": "Veribet",
+        "category": "Landscaping & Irrigation",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 65,
+        "paymentTerms": true
+      },
+      {
+        "id": "dd22cb28-fcb7-4ca5-a2fe-00faeaf6a3b0",
+        "name": "Stronghold",
+        "category": "Glass & Glazing",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 85,
+        "paymentTerms": true
+      },
+      {
+        "id": "ae0b734d-2e43-4c9e-983b-c9c77742dd2e",
+        "name": "Wrapsafe",
+        "category": "Retaining Wall and Brick Pavers",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 2,
+        "paymentTerms": false
+      },
+      {
+        "id": "9f162ca4-7277-4c57-b725-d04f3409f00b",
+        "name": "Overhold",
+        "category": "Temp Fencing, Decorative Fencing and Gates",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 31,
+        "paymentTerms": false
+      },
+      {
+        "id": "d13ef495-a37a-492f-ab3f-428da9433229",
+        "name": "Konklab",
+        "category": "HVAC",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 44,
+        "paymentTerms": true
+      },
+      {
+        "id": "9eaec6da-de8c-40a0-95cc-5ce0ab0fabaf",
+        "name": "Zaam-Dox",
+        "category": "Granite Surfaces",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 78,
+        "paymentTerms": true
+      },
+      {
+        "id": "691f8799-4fa9-4dd9-beb8-a9207e760d6c",
+        "name": "Pannier",
+        "category": "RF Shielding",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 20,
+        "paymentTerms": false
+      },
+      {
+        "id": "63a06725-cec8-464a-892c-85c9e31b5b50",
+        "name": "Overhold",
+        "category": "Prefabricated Aluminum Metal Canopies",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 86,
+        "paymentTerms": null
+      },
+      {
+        "id": "fcba6d0e-ccbd-4e3b-8326-0dc0fce6811e",
+        "name": "Namfix",
+        "category": "Rebar & Wire Mesh Install",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 5,
+        "paymentTerms": true
+      },
+      {
+        "id": "dba50709-8c15-42c9-8abd-3bd43347d297",
+        "name": "Job",
+        "category": "Termite Control",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 88,
+        "paymentTerms": true
+      },
+      {
+        "id": "cd856e70-f78e-424f-95d7-570542aa86bb",
+        "name": "Voltsillam",
+        "category": "Fire Sprinkler System",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 91,
+        "paymentTerms": false
+      }
+    ],
+    "totalSpend(YTD)": 91,
+    "activeContract": true,
+    "source": "Drywall & Acoustical (MOB)",
+    "totalSpend(12Months)": 84,
+    "contractValue": 62
+  },
+  {
+    "id": "acccf9c6-5604-4eac-986e-685c615b65f5",
+    "profileImage": "http://dummyimage.com/117x219.png/ff4444/ffffff",
+    "name": "Kenna Delieu",
+    "application": [
+      {
+        "id": "eaf515cd-9e7e-452b-aefc-8ebdc4940b16",
+        "name": "Toughjoyfax",
+        "category": "Retaining Wall and Brick Pavers",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 61,
+        "paymentTerms": true
+      },
+      {
+        "id": "ef1c0e8c-ef21-48cf-87fe-5e2f85fb9dda",
+        "name": "Sonsing",
+        "category": "Fire Sprinkler System",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 71,
+        "paymentTerms": null
+      },
+      {
+        "id": "794b3a1e-d645-4418-b3d2-5622264bf8bc",
+        "name": "Cookley",
+        "category": "EIFS",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 67,
+        "paymentTerms": null
+      }
+    ],
+    "totalSpend(YTD)": 29,
+    "activeContract": false,
+    "source": "Prefabricated Aluminum Metal Canopies",
+    "totalSpend(12Months)": 16,
+    "contractValue": 59
+  },
+  {
+    "id": "f3026b27-b084-40d8-a022-22da529a498e",
+    "profileImage": "http://dummyimage.com/197x160.png/dddddd/000000",
+    "name": "Odette Telford",
+    "application": null,
+    "totalSpend(YTD)": 41,
+    "activeContract": false,
+    "source": "Soft Flooring and Base",
+    "totalSpend(12Months)": 55,
+    "contractValue": 56
+  },
+  {
+    "id": "55ce8d52-275f-4ad9-81ec-e4a575bf181a",
+    "profileImage": "http://dummyimage.com/224x177.png/ff4444/ffffff",
+    "name": "Bunnie Nieass",
+    "application": null,
+    "totalSpend(YTD)": 18,
+    "activeContract": false,
+    "source": "Drilled Shafts",
+    "totalSpend(12Months)": 90,
+    "contractValue": 98
+  },
+  {
+    "id": "86b55048-7bc7-4262-b9b1-10e3188197f9",
+    "profileImage": "http://dummyimage.com/214x210.png/5fa2dd/ffffff",
+    "name": "Elden Heakins",
+    "application": [
+      {
+        "id": "0dc5962b-ceae-4920-a3a8-89eecd7624dd",
+        "name": "Subin",
+        "category": "Drilled Shafts",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 20,
+        "paymentTerms": false
+      },
+      {
+        "id": "d01f009f-f1bb-4007-ad8b-db09c9afbb4a",
+        "name": "Cardify",
+        "category": "Electrical and Fire Alarm",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 99,
+        "paymentTerms": true
+      },
+      {
+        "id": "c4de829b-6e2b-4b2c-b244-4c62ac83194d",
+        "name": "Biodex",
+        "category": "Prefabricated Aluminum Metal Canopies",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 74,
+        "paymentTerms": null
+      },
+      {
+        "id": "779aeb4d-0b11-4e3d-8005-1ea11998f6f8",
+        "name": "Daltfresh",
+        "category": "Termite Control",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 10,
+        "paymentTerms": false
+      },
+      {
+        "id": "a4ac9db1-be56-43ba-936e-a4f0a6e8a7f7",
+        "name": "Pannier",
+        "category": "Granite Surfaces",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 31,
+        "paymentTerms": true
+      },
+      {
+        "id": "7ce7e457-a8b3-4e4a-b584-11b011fa36fe",
+        "name": "Viva",
+        "category": "Granite Surfaces",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 71,
+        "paymentTerms": null
+      },
+      {
+        "id": "f07da241-000f-4c49-87c3-6d91e7c02a29",
+        "name": "Biodex",
+        "category": "Marlite Panels (FED)",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 21,
+        "paymentTerms": null
+      },
+      {
+        "id": "1bd17e2c-9e76-44b4-a4e6-492c6dafb285",
+        "name": "Fix San",
+        "category": "Ornamental Railings",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 55,
+        "paymentTerms": true
+      },
+      {
+        "id": "417143d2-0524-415e-991c-a175ac1f70ec",
+        "name": "Latlux",
+        "category": "Rebar & Wire Mesh Install",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 88,
+        "paymentTerms": true
+      },
+      {
+        "id": "6ec0a1e4-e899-41d7-bbbd-e34b41cfc40b",
+        "name": "Flowdesk",
+        "category": "Retaining Wall and Brick Pavers",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 54,
+        "paymentTerms": true
+      },
+      {
+        "id": "222fe6ba-88d3-459a-8228-761cffc8a05e",
+        "name": "Bitchip",
+        "category": "Construction Clean and Final Clean",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 59,
+        "paymentTerms": null
+      },
+      {
+        "id": "f82ebb84-3e8c-4723-9f51-fd0260be537a",
+        "name": "Opela",
+        "category": "Sitework & Site Utilities",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 75,
+        "paymentTerms": false
+      },
+      {
+        "id": "7811c470-1dcd-4bf7-9a5b-f80dfacae320",
+        "name": "Fix San",
+        "category": "Structural and Misc Steel (Fabrication)",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 57,
+        "paymentTerms": true
+      },
+      {
+        "id": "b8214f2f-25a7-44c3-8d59-01fde79fffe0",
+        "name": "Span",
+        "category": "Electrical and Fire Alarm",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 80,
+        "paymentTerms": false
+      },
+      {
+        "id": "a475d142-9a72-4e70-9748-322d4de3bd5f",
+        "name": "Job",
+        "category": "Framing (Wood)",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 36,
+        "paymentTerms": true
+      },
+      {
+        "id": "bc3f97ab-901b-4a3a-8ec9-bd2824e66a97",
+        "name": "Flowdesk",
+        "category": "Drywall & Acoustical (MOB)",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 57,
+        "paymentTerms": true
+      },
+      {
+        "id": "6b86f718-26d7-4da1-a0a6-d407249fda40",
+        "name": "Biodex",
+        "category": "Retaining Wall and Brick Pavers",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 72,
+        "paymentTerms": true
+      }
+    ],
+    "totalSpend(YTD)": 51,
+    "activeContract": true,
+    "source": "Fire Protection",
+    "totalSpend(12Months)": 12,
+    "contractValue": 71
+  },
+  {
+    "id": "e899cebf-50f1-4d84-a3c0-d5ccc4d742cc",
+    "profileImage": "http://dummyimage.com/122x138.png/dddddd/000000",
+    "name": "Ibby Gorham",
+    "application": [
+      {
+        "id": "dc9245b1-1839-4668-bfc2-892e0edc59b1",
+        "name": "Flowdesk",
+        "category": "Marlite Panels (FED)",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 22,
+        "paymentTerms": false
+      },
+      {
+        "id": "01fdbc7e-0535-4418-92b9-7bbb3e15b469",
+        "name": "Transcof",
+        "category": "Fire Protection",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 16,
+        "paymentTerms": false
+      }
+    ],
+    "totalSpend(YTD)": 65,
+    "activeContract": false,
+    "source": "Overhead Doors",
+    "totalSpend(12Months)": 78,
+    "contractValue": 73
+  },
+  {
+    "id": "417ef3ba-52ec-4c53-ae8e-31655f545988",
+    "profileImage": "http://dummyimage.com/161x107.png/5fa2dd/ffffff",
+    "name": "Gifford Lackner",
+    "application": [
+      {
+        "id": "f0216095-2cd3-44f7-9de1-0ab76a9664d2",
+        "name": "Andalax",
+        "category": "Electrical and Fire Alarm",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 74,
+        "paymentTerms": false
+      },
+      {
+        "id": "c405fb72-1b81-4474-8709-7e311bccd514",
+        "name": "Solarbreeze",
+        "category": "Hard Tile & Stone",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 37,
+        "paymentTerms": true
+      },
+      {
+        "id": "9f635f21-b36a-4051-bc21-f051039adc3b",
+        "name": "Tres-Zap",
+        "category": "Elevator",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 23,
+        "paymentTerms": true
+      },
+      {
+        "id": "049a5881-a04f-4d7e-bd12-79a0b6bfe822",
+        "name": "Keylex",
+        "category": "Epoxy Flooring",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 95,
+        "paymentTerms": null
+      },
+      {
+        "id": "14fc4455-51ac-4b2c-b6d8-979a0f6b7a0c",
+        "name": "Tin",
+        "category": "Asphalt Paving",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 33,
+        "paymentTerms": false
+      },
+      {
+        "id": "1eafd3ce-1db2-41fe-bc93-b6a5ab26421f",
+        "name": "Gembucket",
+        "category": "Asphalt Paving",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 39,
+        "paymentTerms": false
+      },
+      {
+        "id": "e2edbe89-3e32-449f-8472-1ab9346064aa",
+        "name": "Duobam",
+        "category": "Termite Control",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 48,
+        "paymentTerms": true
+      },
+      {
+        "id": "c61c7f82-ddcf-4588-97fc-61b749ea9e90",
+        "name": "Lotlux",
+        "category": "Structural & Misc Steel Erection",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 33,
+        "paymentTerms": false
+      },
+      {
+        "id": "29eb8a2b-74c6-427a-8bb1-83dc6f60ffd7",
+        "name": "Hatity",
+        "category": "Drywall & Acoustical (MOB)",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 97,
+        "paymentTerms": true
+      },
+      {
+        "id": "4b40c348-581f-4fcf-84b4-0106487ee576",
+        "name": "Wrapsafe",
+        "category": "Hard Tile & Stone",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 52,
+        "paymentTerms": false
+      }
+    ],
+    "totalSpend(YTD)": 58,
+    "activeContract": false,
+    "source": "Fire Sprinkler System",
+    "totalSpend(12Months)": 21,
+    "contractValue": 75
+  },
+  {
+    "id": "e7b6739e-6cd3-403f-aad0-4306a6a19ca6",
+    "profileImage": "http://dummyimage.com/201x188.png/ff4444/ffffff",
+    "name": "Cheri Buzzing",
+    "application": null,
+    "totalSpend(YTD)": 96,
+    "activeContract": false,
+    "source": "Curb & Gutter",
+    "totalSpend(12Months)": 62,
+    "contractValue": 26
+  },
+  {
+    "id": "bff03cd7-4c53-45bb-82ca-7277e3006f89",
+    "profileImage": "http://dummyimage.com/112x111.png/5fa2dd/ffffff",
+    "name": "Jaimie Bucktharp",
+    "application": [
+      {
+        "id": "6705cc95-0e39-4f68-8d65-9473f7a10cc6",
+        "name": "Temp",
+        "category": "Painting & Vinyl Wall Covering",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 93,
+        "paymentTerms": true
+      },
+      {
+        "id": "17e03b1e-2a2f-4225-911f-d22897195b31",
+        "name": "Y-find",
+        "category": "Landscaping & Irrigation",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 59,
+        "paymentTerms": false
+      },
+      {
+        "id": "273bfea5-090e-4925-9eee-17580057968a",
+        "name": "Tres-Zap",
+        "category": "Landscaping & Irrigation",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 95,
+        "paymentTerms": false
+      },
+      {
+        "id": "c208ab0b-2bfc-47d8-a3bd-9d2d61931b4e",
+        "name": "Bigtax",
+        "category": "Drywall & Acoustical (MOB)",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 49,
+        "paymentTerms": false
+      },
+      {
+        "id": "b19d9b5d-3c88-4da8-88d3-11788fdb6a07",
+        "name": "Keylex",
+        "category": "Casework",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 83,
+        "paymentTerms": true
+      },
+      {
+        "id": "4bf11edd-01bb-4f40-8268-353216a9cd9d",
+        "name": "Trippledex",
+        "category": "Electrical and Fire Alarm",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 65,
+        "paymentTerms": false
+      },
+      {
+        "id": "679eff8c-fcda-4445-bc2a-38d8714dde1c",
+        "name": "Pannier",
+        "category": "Electrical and Fire Alarm",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 2,
+        "paymentTerms": true
+      },
+      {
+        "id": "6e214b74-4e09-4f65-8eef-db504ee90a1f",
+        "name": "Sonair",
+        "category": "Casework",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 13,
+        "paymentTerms": false
+      },
+      {
+        "id": "d6df2735-e9d0-4f74-9c07-f07d159ab413",
+        "name": "Viva",
+        "category": "Drywall & Acoustical (MOB)",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 55,
+        "paymentTerms": null
+      },
+      {
+        "id": "601c3bd8-39b9-412f-a522-183954314e2a",
+        "name": "Biodex",
+        "category": "EIFS",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 80,
+        "paymentTerms": false
+      },
+      {
+        "id": "575f19c9-3be5-4699-a707-2b94d25b3e34",
+        "name": "Stronghold",
+        "category": "Overhead Doors",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 26,
+        "paymentTerms": true
+      },
+      {
+        "id": "32a4944e-bd2b-400c-ae0a-bd956f7c1f57",
+        "name": "Opela",
+        "category": "Drywall & Acoustical (FED)",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 86,
+        "paymentTerms": false
+      },
+      {
+        "id": "cc5c77d8-624e-431b-b490-0399140d8499",
+        "name": "Ronstring",
+        "category": "EIFS",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 94,
+        "paymentTerms": null
+      },
+      {
+        "id": "50dac86e-e189-42d8-a4de-46c9ed4b2660",
+        "name": "Zontrax",
+        "category": "Hard Tile & Stone",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 60,
+        "paymentTerms": null
+      },
+      {
+        "id": "583a287b-09d2-426f-af8d-948fb6623777",
+        "name": "Keylex",
+        "category": "Drywall & Acoustical (FED)",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 22,
+        "paymentTerms": true
+      },
+      {
+        "id": "ef9a983e-c93f-4020-9bed-54ab145db236",
+        "name": "Prodder",
+        "category": "Curb & Gutter",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 98,
+        "paymentTerms": false
+      },
+      {
+        "id": "c16e1f33-319e-4aef-b205-1d86d0ce6d37",
+        "name": "Stronghold",
+        "category": "Electrical and Fire Alarm",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 59,
+        "paymentTerms": true
+      },
+      {
+        "id": "1d3d77a3-b36d-4498-9fd9-821f9dd41f67",
+        "name": "Transcof",
+        "category": "Sitework & Site Utilities",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 3,
+        "paymentTerms": false
+      },
+      {
+        "id": "d99fe83a-3a30-4281-85d4-07d1a43c5259",
+        "name": "Sonsing",
+        "category": "Overhead Doors",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 7,
+        "paymentTerms": false
+      }
+    ],
+    "totalSpend(YTD)": 98,
+    "activeContract": true,
+    "source": "Casework",
+    "totalSpend(12Months)": 23,
+    "contractValue": 61
+  },
+  {
+    "id": "a139c39d-84c4-46b2-96fb-12a7a5a136af",
+    "profileImage": "http://dummyimage.com/196x167.png/dddddd/000000",
+    "name": "Averyl Pendle",
+    "application": [
+      {
+        "id": "d04b651a-019d-4405-9dc3-f4c6f1e0a3fe",
+        "name": "Rank",
+        "category": "Electrical and Fire Alarm",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 44,
+        "paymentTerms": true
+      },
+      {
+        "id": "c280e679-43e5-4a1c-9e4e-1c93449d1f52",
+        "name": "Rank",
+        "category": "Construction Clean and Final Clean",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 87,
+        "paymentTerms": true
+      },
+      {
+        "id": "36cf9c1b-f55c-43b1-9344-cf31f776ad29",
+        "name": "Cardguard",
+        "category": "Landscaping & Irrigation",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 16,
+        "paymentTerms": true
+      },
+      {
+        "id": "038c7576-0e87-49ae-b6c2-12759cf54ee7",
+        "name": "Toughjoyfax",
+        "category": "Construction Clean and Final Clean",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 38,
+        "paymentTerms": true
+      },
+      {
+        "id": "72d97a2e-f94a-4013-9747-3ed65d90145a",
+        "name": "Bitchip",
+        "category": "Framing (Steel)",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 97,
+        "paymentTerms": true
+      }
+    ],
+    "totalSpend(YTD)": 55,
+    "activeContract": false,
+    "source": "Wall Protection",
+    "totalSpend(12Months)": 94,
+    "contractValue": 83
+  },
+  {
+    "id": "1151b7d7-0753-4b71-a9e6-f90dde4684f5",
+    "profileImage": "http://dummyimage.com/111x198.png/dddddd/000000",
+    "name": "Jarib Danzelman",
+    "application": [
+      {
+        "id": "12555a5d-ca53-4578-bb11-d6539fd7da36",
+        "name": "Duobam",
+        "category": "RF Shielding",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 53,
+        "paymentTerms": true
+      }
+    ],
+    "totalSpend(YTD)": 97,
+    "activeContract": false,
+    "source": "Marlite Panels (FED)",
+    "totalSpend(12Months)": 34,
+    "contractValue": 28
+  },
+  {
+    "id": "6f512afc-810b-4f91-8f27-62bb2ccecb94",
+    "profileImage": "http://dummyimage.com/143x205.png/dddddd/000000",
+    "name": "Janeczka Jouanot",
+    "application": [
+      {
+        "id": "113b9a1e-98c0-4442-ae7f-9aba4154ac8e",
+        "name": "Kanlam",
+        "category": "Granite Surfaces",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 37,
+        "paymentTerms": null
+      },
+      {
+        "id": "437f9308-10a6-4dc3-b8e4-c616b894f636",
+        "name": "Alphazap",
+        "category": "Curb & Gutter",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 51,
+        "paymentTerms": true
+      },
+      {
+        "id": "be35aa9c-7dc5-4f6a-9407-0030c170751a",
+        "name": "Overhold",
+        "category": "Framing (Steel)",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 77,
+        "paymentTerms": true
+      },
+      {
+        "id": "f1368af4-a54c-4609-9d56-b661c768df67",
+        "name": "Bitwolf",
+        "category": "Rebar & Wire Mesh Install",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 42,
+        "paymentTerms": true
+      },
+      {
+        "id": "f5abe526-9286-4194-81b8-dad4e7e49e62",
+        "name": "Job",
+        "category": "Electrical",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 12,
+        "paymentTerms": false
+      },
+      {
+        "id": "f62f4fdc-7b7f-4723-bb85-d8b88808b891",
+        "name": "Cardguard",
+        "category": "Prefabricated Aluminum Metal Canopies",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 22,
+        "paymentTerms": true
+      },
+      {
+        "id": "85253d90-9382-42e2-a30e-4db45ed4916c",
+        "name": "Fix San",
+        "category": "Drywall & Acoustical (MOB)",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 38,
+        "paymentTerms": true
+      },
+      {
+        "id": "71c882f9-21ca-4de6-bb78-cf1f9817f4e7",
+        "name": "Job",
+        "category": "Elevator",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 11,
+        "paymentTerms": true
+      }
+    ],
+    "totalSpend(YTD)": 51,
+    "activeContract": true,
+    "source": "Fire Sprinkler System",
+    "totalSpend(12Months)": 51,
+    "contractValue": 72
+  },
+  {
+    "id": "fe618293-0cda-4f53-9689-0a07df945b95",
+    "profileImage": "http://dummyimage.com/206x118.png/dddddd/000000",
+    "name": "Seline Tulleth",
+    "application": [
+      {
+        "id": "dbed1c09-3f3b-471a-8870-a5a4d496d9e5",
+        "name": "Alpha",
+        "category": "Asphalt Paving",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 77,
+        "paymentTerms": false
+      },
+      {
+        "id": "89ba0e54-c945-45d1-b268-dd585e3e74a6",
+        "name": "Redhold",
+        "category": "HVAC",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 82,
+        "paymentTerms": true
+      },
+      {
+        "id": "0c8b2be4-6afa-4803-be79-7953fe6af10d",
+        "name": "Ronstring",
+        "category": "Structural & Misc Steel Erection",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 76,
+        "paymentTerms": true
+      },
+      {
+        "id": "91e74b91-2c8f-4048-bdb9-ec0c6972e503",
+        "name": "Y-find",
+        "category": "Termite Control",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 34,
+        "paymentTerms": false
+      },
+      {
+        "id": "68d68374-a4a5-4fb0-8608-ad1262a000b9",
+        "name": "Kanlam",
+        "category": "Framing (Steel)",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 50,
+        "paymentTerms": true
+      },
+      {
+        "id": "cc19d85a-0b2f-4bad-87ea-663d20f9c8d9",
+        "name": "Zathin",
+        "category": "Retaining Wall and Brick Pavers",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 33,
+        "paymentTerms": true
+      },
+      {
+        "id": "1bbb4291-00b3-432d-b10d-39da21ff013b",
+        "name": "Trippledex",
+        "category": "Framing (Steel)",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 27,
+        "paymentTerms": true
+      },
+      {
+        "id": "fd26d305-f5a1-4f50-ae6b-d7b634af6552",
+        "name": "Regrant",
+        "category": "Sitework & Site Utilities",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 30,
+        "paymentTerms": false
+      },
+      {
+        "id": "2adec836-45c2-4354-b017-905d76c28a7d",
+        "name": "Stim",
+        "category": "Masonry & Precast",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 76,
+        "paymentTerms": false
+      },
+      {
+        "id": "ba5cd244-6452-4257-b2eb-ebe77b9812dc",
+        "name": "Gembucket",
+        "category": "Rebar & Wire Mesh Install",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 63,
+        "paymentTerms": true
+      },
+      {
+        "id": "27117799-8d9c-4cc6-ac8f-c79e1c283613",
+        "name": "Viva",
+        "category": "Painting & Vinyl Wall Covering",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 56,
+        "paymentTerms": true
+      },
+      {
+        "id": "ab7c9ab9-1223-423e-9fcc-aa498f6bec9b",
+        "name": "Duobam",
+        "category": "Glass & Glazing",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 69,
+        "paymentTerms": false
+      }
+    ],
+    "totalSpend(YTD)": 78,
+    "activeContract": true,
+    "source": "Retaining Wall and Brick Pavers",
+    "totalSpend(12Months)": 32,
+    "contractValue": 20
+  },
+  {
+    "id": "99aadbf1-c61b-400a-8803-75af83b03c14",
+    "profileImage": "http://dummyimage.com/192x108.png/ff4444/ffffff",
+    "name": "Engracia Hebron",
+    "application": null,
+    "totalSpend(YTD)": 6,
+    "activeContract": false,
+    "source": "HVAC",
+    "totalSpend(12Months)": 40,
+    "contractValue": 13
+  },
+  {
+    "id": "0c4ff791-d754-4055-aaac-1b5f7272cf6d",
+    "profileImage": "http://dummyimage.com/185x172.png/5fa2dd/ffffff",
+    "name": "Maxie Boulger",
+    "application": [
+      {
+        "id": "d9ddecf4-123c-4fab-bddf-2febcd6a5ae1",
+        "name": "Quo Lux",
+        "category": "Rebar & Wire Mesh Install",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 79,
+        "paymentTerms": true
+      },
+      {
+        "id": "35074fcc-6f4a-40aa-8447-ddf170735b1f",
+        "name": "Solarbreeze",
+        "category": "Marlite Panels (FED)",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 88,
+        "paymentTerms": true
+      },
+      {
+        "id": "9600729c-c7c1-4fac-88c5-2d3e587df1df",
+        "name": "Regrant",
+        "category": "RF Shielding",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 41,
+        "paymentTerms": false
+      },
+      {
+        "id": "6a1876ba-ef81-4b64-8ba4-1b37e5247461",
+        "name": "Veribet",
+        "category": "Fire Sprinkler System",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 30,
+        "paymentTerms": true
+      },
+      {
+        "id": "276033a7-e77d-403a-acc3-c81c0958ff84",
+        "name": "Trippledex",
+        "category": "Framing (Steel)",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 56,
+        "paymentTerms": false
+      },
+      {
+        "id": "b804b21d-0471-44b6-b45a-fe7d21081201",
+        "name": "Toughjoyfax",
+        "category": "Hard Tile & Stone",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 51,
+        "paymentTerms": false
+      },
+      {
+        "id": "f46ed0da-ff49-419a-b308-ecd67cdfe749",
+        "name": "Biodex",
+        "category": "Retaining Wall and Brick Pavers",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 73,
+        "paymentTerms": false
+      }
+    ],
+    "totalSpend(YTD)": 68,
+    "activeContract": false,
+    "source": "Soft Flooring and Base",
+    "totalSpend(12Months)": 46,
+    "contractValue": 41
+  },
+  {
+    "id": "3871792c-8ad4-40d7-b68c-424e3b50e2ca",
+    "profileImage": "http://dummyimage.com/117x110.png/dddddd/000000",
+    "name": "Myer MacIntosh",
+    "application": [
+      {
+        "id": "202bcda0-2528-4885-a1b1-d0f1e96e8159",
+        "name": "Zaam-Dox",
+        "category": "Masonry & Precast",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 87,
+        "paymentTerms": false
+      },
+      {
+        "id": "4bc9d35a-50b4-42fb-a77e-b871a0a0eede",
+        "name": "Duobam",
+        "category": "Drywall & Acoustical (MOB)",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 60,
+        "paymentTerms": false
+      },
+      {
+        "id": "3848e9cc-e7ac-4bb0-8fc1-562ad91ee590",
+        "name": "Asoka",
+        "category": "Soft Flooring and Base",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 65,
+        "paymentTerms": true
+      },
+      {
+        "id": "067665df-d130-4186-b1b3-18b1431efbb2",
+        "name": "Flexidy",
+        "category": "Temp Fencing, Decorative Fencing and Gates",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 5,
+        "paymentTerms": true
+      },
+      {
+        "id": "f6a7b483-8c48-4740-9285-2c5c7e34e497",
+        "name": "Domainer",
+        "category": "Doors, Frames & Hardware",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 20,
+        "paymentTerms": false
+      },
+      {
+        "id": "aad5a98d-b8ef-4185-ac03-215636aa73f2",
+        "name": "Bitchip",
+        "category": "Drilled Shafts",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 54,
+        "paymentTerms": true
+      },
+      {
+        "id": "7b37e15e-e008-4ea9-a606-c43e8bdbfde9",
+        "name": "Tin",
+        "category": "Masonry",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 3,
+        "paymentTerms": false
+      },
+      {
+        "id": "9d5554e6-cf4d-435e-8393-e669031bb8f8",
+        "name": "Bitchip",
+        "category": "Exterior Signage",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 37,
+        "paymentTerms": false
+      },
+      {
+        "id": "c95b978b-4628-413e-8ac1-998683cf82ca",
+        "name": "Tampflex",
+        "category": "Prefabricated Aluminum Metal Canopies",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 51,
+        "paymentTerms": true
+      },
+      {
+        "id": "3528a7c4-3dc3-4a67-9a2e-e13b4da0551c",
+        "name": "Namfix",
+        "category": "Exterior Signage",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 14,
+        "paymentTerms": true
+      }
+    ],
+    "totalSpend(YTD)": 75,
+    "activeContract": true,
+    "source": "Roofing (Metal)",
+    "totalSpend(12Months)": 63,
+    "contractValue": 10
+  },
+  {
+    "id": "89e81ae3-58f0-47e7-ae36-c4a8ac041135",
+    "profileImage": "http://dummyimage.com/116x109.png/ff4444/ffffff",
+    "name": "Demetrius Dunlop",
+    "application": [
+      {
+        "id": "109b20f9-387d-4b93-ab5d-3bf3fb7b3606",
+        "name": "Veribet",
+        "category": "Hard Tile & Stone",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 8,
+        "paymentTerms": true
+      },
+      {
+        "id": "f9314568-5939-4bec-9df6-1f9ff0b9299d",
+        "name": "Y-find",
+        "category": "Elevator",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 77,
+        "paymentTerms": false
+      },
+      {
+        "id": "8c40a940-22bc-4934-a270-6f9773b0c99f",
+        "name": "Y-find",
+        "category": "RF Shielding",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 60,
+        "paymentTerms": true
+      },
+      {
+        "id": "f2e342f7-3e58-4a3e-99fe-6eedd6747997",
+        "name": "Fixflex",
+        "category": "Masonry",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 82,
+        "paymentTerms": false
+      },
+      {
+        "id": "13b5c6fd-ac86-4211-9725-4fa08bb89416",
+        "name": "Bytecard",
+        "category": "Curb & Gutter",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 85,
+        "paymentTerms": null
+      },
+      {
+        "id": "4299a87d-87b2-4e10-96bd-0d61584062d9",
+        "name": "Greenlam",
+        "category": "Rebar & Wire Mesh Install",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 2,
+        "paymentTerms": false
+      },
+      {
+        "id": "f660821f-dbea-4511-97eb-07fab0fa66d3",
+        "name": "Tampflex",
+        "category": "Roofing (Metal)",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 38,
+        "paymentTerms": true
+      },
+      {
+        "id": "0e70e2cc-a859-40e6-a987-737cccd3b5ed",
+        "name": "Bitwolf",
+        "category": "Framing (Wood)",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 27,
+        "paymentTerms": true
+      },
+      {
+        "id": "db937c90-cd73-4d5a-a0a4-92a1c167250c",
+        "name": "Mat Lam Tam",
+        "category": "Construction Clean and Final Clean",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 50,
+        "paymentTerms": null
+      },
+      {
+        "id": "d760ef40-abba-4b20-b42b-237b39a3fceb",
+        "name": "Voltsillam",
+        "category": "Casework",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 21,
+        "paymentTerms": null
+      },
+      {
+        "id": "8b562ef2-ba6b-4f68-ae3f-b63b874ede17",
+        "name": "Solarbreeze",
+        "category": "Drilled Shafts",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 68,
+        "paymentTerms": true
+      },
+      {
+        "id": "92bb8559-6698-4745-82d1-1eeeacad70a8",
+        "name": "Namfix",
+        "category": "Waterproofing & Caulking",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 85,
+        "paymentTerms": false
+      },
+      {
+        "id": "b31b9a0a-2687-4523-8a53-5357e750e120",
+        "name": "Mat Lam Tam",
+        "category": "Sitework & Site Utilities",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 62,
+        "paymentTerms": true
+      },
+      {
+        "id": "2c6bf478-ba17-42c6-8c35-9b2f106164ec",
+        "name": "Asoka",
+        "category": "Framing (Steel)",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 72,
+        "paymentTerms": true
+      },
+      {
+        "id": "f7aba522-a9f2-45cd-803c-50837f8dbc8a",
+        "name": "Sonsing",
+        "category": "Site Furnishings",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 23,
+        "paymentTerms": false
+      }
+    ],
+    "totalSpend(YTD)": 4,
+    "activeContract": true,
+    "source": "Termite Control",
+    "totalSpend(12Months)": 81,
+    "contractValue": 48
+  },
+  {
+    "id": "4ef7e6d5-52f1-45d8-b2bb-9919a3739c0a",
+    "profileImage": "http://dummyimage.com/229x213.png/5fa2dd/ffffff",
+    "name": "Darrick Oseland",
+    "application": [
+      {
+        "id": "6e00895d-7bbd-43e9-bc7a-9156bf748d7c",
+        "name": "Zaam-Dox",
+        "category": "Roofing (Metal)",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 36,
+        "paymentTerms": false
+      },
+      {
+        "id": "1dd3e69b-7643-4f1b-900a-25db041862fd",
+        "name": "Zontrax",
+        "category": "Doors, Frames & Hardware",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 55,
+        "paymentTerms": false
+      },
+      {
+        "id": "8d701d49-7c08-45fe-9009-1b0cc07f2612",
+        "name": "Matsoft",
+        "category": "Exterior Signage",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 70,
+        "paymentTerms": false
+      },
+      {
+        "id": "09e31945-ade5-4ca3-b3c6-241a40e93633",
+        "name": "Zaam-Dox",
+        "category": "Painting & Vinyl Wall Covering",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 38,
+        "paymentTerms": true
+      },
+      {
+        "id": "df481c84-3dfb-4339-a302-1438e286a652",
+        "name": "Regrant",
+        "category": "Waterproofing & Caulking",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 24,
+        "paymentTerms": true
+      },
+      {
+        "id": "421b574b-0418-417b-a207-b551ffe7cff8",
+        "name": "Tampflex",
+        "category": "Fire Sprinkler System",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 88,
+        "paymentTerms": false
+      }
+    ],
+    "totalSpend(YTD)": 55,
+    "activeContract": false,
+    "source": "Electrical",
+    "totalSpend(12Months)": 62,
+    "contractValue": 98
+  },
+  {
+    "id": "b7e1b0f3-01e1-48ca-aeed-72223956e919",
+    "profileImage": "http://dummyimage.com/102x148.png/dddddd/000000",
+    "name": "Garrik Welham",
+    "application": null,
+    "totalSpend(YTD)": 87,
+    "activeContract": false,
+    "source": "Drilled Shafts",
+    "totalSpend(12Months)": 18,
+    "contractValue": 93
+  },
+  {
+    "id": "8c358bb6-bf7d-4038-a859-0755573b4d34",
+    "profileImage": "http://dummyimage.com/238x213.png/ff4444/ffffff",
+    "name": "Byran Goodfield",
+    "application": null,
+    "totalSpend(YTD)": 61,
+    "activeContract": false,
+    "source": "Structural & Misc Steel Erection",
+    "totalSpend(12Months)": 47,
+    "contractValue": 86
+  },
+  {
+    "id": "375b6afa-e003-44b2-b7a8-05e02a307711",
+    "profileImage": "http://dummyimage.com/122x172.png/cc0000/ffffff",
+    "name": "Sibylla Kerner",
+    "application": null,
+    "totalSpend(YTD)": 89,
+    "activeContract": true,
+    "source": "Termite Control",
+    "totalSpend(12Months)": 89,
+    "contractValue": 26
+  },
+  {
+    "id": "149a2378-1976-4a8a-8f46-fd81aa1a4ca6",
+    "profileImage": "http://dummyimage.com/158x175.png/ff4444/ffffff",
+    "name": "Gualterio Peperell",
+    "application": [
+      {
+        "id": "7ac4f125-76ab-4797-b47f-4747c2002f29",
+        "name": "Konklux",
+        "category": "Asphalt Paving",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 81,
+        "paymentTerms": true
+      },
+      {
+        "id": "f56ffe91-19c5-46c0-a54a-68a77bb2bc66",
+        "name": "Home Ing",
+        "category": "Curb & Gutter",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 27,
+        "paymentTerms": false
+      },
+      {
+        "id": "fb9468c7-4078-4909-8389-4f027b8a88f4",
+        "name": "Cardguard",
+        "category": "Drilled Shafts",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 53,
+        "paymentTerms": false
+      },
+      {
+        "id": "4cd6f550-1b3a-4f43-b5e1-a87e72da3d7d",
+        "name": "Temp",
+        "category": "Wall Protection",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 29,
+        "paymentTerms": true
+      }
+    ],
+    "totalSpend(YTD)": 39,
+    "activeContract": false,
+    "source": "Granite Surfaces",
+    "totalSpend(12Months)": 85,
+    "contractValue": 62
+  },
+  {
+    "id": "26bbc5e5-100b-413a-be8e-d0dc6ea36c03",
+    "profileImage": "http://dummyimage.com/145x249.png/dddddd/000000",
+    "name": "Hurley Jaxon",
+    "application": [
+      {
+        "id": "cba642fc-0707-4cf3-81f3-325f88681177",
+        "name": "Subin",
+        "category": "Drywall & Acoustical (MOB)",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 55,
+        "paymentTerms": true
+      },
+      {
+        "id": "760551d6-90e6-45ec-8e6b-1ffcdf3fc4ab",
+        "name": "Stim",
+        "category": "Wall Protection",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 20,
+        "paymentTerms": true
+      }
+    ],
+    "totalSpend(YTD)": 69,
+    "activeContract": true,
+    "source": "Epoxy Flooring",
+    "totalSpend(12Months)": 19,
+    "contractValue": 41
+  },
+  {
+    "id": "eabe6596-5c74-4b3f-a166-bc6b678b4dc6",
+    "profileImage": "http://dummyimage.com/208x227.png/cc0000/ffffff",
+    "name": "Jaime Buncher",
+    "application": [
+      {
+        "id": "1d223002-efa1-42d6-aefe-f1ffae258ec7",
+        "name": "Wrapsafe",
+        "category": "Wall Protection",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 95,
+        "paymentTerms": false
+      },
+      {
+        "id": "495ba402-8a39-41d4-918e-b4382454180d",
+        "name": "Stronghold",
+        "category": "Termite Control",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 5,
+        "paymentTerms": null
+      },
+      {
+        "id": "aa9556b1-8c05-4882-9209-edfdeea47796",
+        "name": "Viva",
+        "category": "HVAC",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 93,
+        "paymentTerms": false
+      },
+      {
+        "id": "27c3dc13-8ec1-441f-b162-05c8c667151e",
+        "name": "Konklux",
+        "category": "Hard Tile & Stone",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 85,
+        "paymentTerms": true
+      },
+      {
+        "id": "54732306-394b-44cd-beb8-6381411b25f5",
+        "name": "Holdlamis",
+        "category": "Retaining Wall and Brick Pavers",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 67,
+        "paymentTerms": false
+      },
+      {
+        "id": "be32fcaf-7cb8-4bd6-b0ad-43f5b7ec79e4",
+        "name": "Fixflex",
+        "category": "Overhead Doors",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 40,
+        "paymentTerms": false
+      },
+      {
+        "id": "7d2f5270-8f56-47d4-86b7-4d6dde171fe7",
+        "name": "Overhold",
+        "category": "Soft Flooring and Base",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 30,
+        "paymentTerms": false
+      },
+      {
+        "id": "bacfcefb-5771-46a8-98b1-43c6d48f6e04",
+        "name": "Sonair",
+        "category": "Framing (Wood)",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 28,
+        "paymentTerms": true
+      },
+      {
+        "id": "241945b2-3182-4ca8-8720-fc96f62dd54d",
+        "name": "Zamit",
+        "category": "Epoxy Flooring",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 77,
+        "paymentTerms": true
+      },
+      {
+        "id": "42b68d3d-3cc8-400d-a1d7-f18801f60c14",
+        "name": "Fintone",
+        "category": "Site Furnishings",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 68,
+        "paymentTerms": null
+      },
+      {
+        "id": "2ca8249b-588e-4546-b71c-e35e37777bdd",
+        "name": "Tres-Zap",
+        "category": "Retaining Wall and Brick Pavers",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 86,
+        "paymentTerms": false
+      },
+      {
+        "id": "bcdafc73-f6bf-47f8-9cbe-b1f15ff48400",
+        "name": "Treeflex",
+        "category": "Prefabricated Aluminum Metal Canopies",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 64,
+        "paymentTerms": true
+      },
+      {
+        "id": "5691cd57-a2b1-4bf5-8b13-ab96645baac6",
+        "name": "Transcof",
+        "category": "Exterior Signage",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 41,
+        "paymentTerms": false
+      },
+      {
+        "id": "679cd39d-e408-43e5-b441-c49f407ac845",
+        "name": "It",
+        "category": "Curb & Gutter",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 72,
+        "paymentTerms": true
+      },
+      {
+        "id": "82e45717-cb3f-402e-b324-62fe1d1806d7",
+        "name": "Zathin",
+        "category": "HVAC",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 15,
+        "paymentTerms": null
+      },
+      {
+        "id": "27ead16d-8a2b-4d97-a703-61996509f744",
+        "name": "Keylex",
+        "category": "Hard Tile & Stone",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 14,
+        "paymentTerms": false
+      },
+      {
+        "id": "e2a89065-b417-4c49-bd77-347417842023",
+        "name": "Home Ing",
+        "category": "Drywall & Acoustical (FED)",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 66,
+        "paymentTerms": true
+      },
+      {
+        "id": "01088608-ad99-4c80-8a9a-a4021dbd8a41",
+        "name": "Home Ing",
+        "category": "Site Furnishings",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 82,
+        "paymentTerms": true
+      },
+      {
+        "id": "70336489-23ff-404d-9b7d-00f4a053f0f5",
+        "name": "Latlux",
+        "category": "Plumbing & Medical Gas",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 11,
+        "paymentTerms": false
+      }
+    ],
+    "totalSpend(YTD)": 56,
+    "activeContract": true,
+    "source": "Waterproofing & Caulking",
+    "totalSpend(12Months)": 65,
+    "contractValue": 64
+  },
+  {
+    "id": "1f10b9d2-1993-40c3-b0f0-e8084d4e8609",
+    "profileImage": "http://dummyimage.com/162x189.png/dddddd/000000",
+    "name": "Nichole Hinstock",
+    "application": [
+      {
+        "id": "c88ba0da-56c8-4b54-a3c7-ffb801cac1b3",
+        "name": "It",
+        "category": "Drywall & Acoustical (MOB)",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 79,
+        "paymentTerms": false
+      },
+      {
+        "id": "b3d1256e-41d6-4b1a-8696-8153b5424325",
+        "name": "Redhold",
+        "category": "Prefabricated Aluminum Metal Canopies",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 46,
+        "paymentTerms": true
+      },
+      {
+        "id": "77dec6a7-9dfc-4076-a63f-e4333cdf88d8",
+        "name": "Keylex",
+        "category": "Casework",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 22,
+        "paymentTerms": true
+      },
+      {
+        "id": "72587a6c-a527-46d8-930b-2a0dccc2839e",
+        "name": "Tin",
+        "category": "Drilled Shafts",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 85,
+        "paymentTerms": true
+      },
+      {
+        "id": "83077c36-dd3d-4407-9f66-68ad22a3daff",
+        "name": "Flowdesk",
+        "category": "Exterior Signage",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 55,
+        "paymentTerms": true
+      },
+      {
+        "id": "b5db7d05-d0c1-4b19-ac66-e477285512af",
+        "name": "Biodex",
+        "category": "Plumbing & Medical Gas",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 13,
+        "paymentTerms": null
+      },
+      {
+        "id": "28319b48-95df-4be2-a2fd-fa419e4a70f7",
+        "name": "Fix San",
+        "category": "Ornamental Railings",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 57,
+        "paymentTerms": false
+      },
+      {
+        "id": "209afa8d-c80a-406e-8457-b96fdfb94644",
+        "name": "Lotstring",
+        "category": "Overhead Doors",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 68,
+        "paymentTerms": true
+      },
+      {
+        "id": "8abad70d-78c8-4e93-ad1e-18ca2c1b8a36",
+        "name": "Sonair",
+        "category": "EIFS",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 56,
+        "paymentTerms": true
+      },
+      {
+        "id": "afebc0ed-3294-4523-9c13-98c50232d290",
+        "name": "Span",
+        "category": "Retaining Wall and Brick Pavers",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 57,
+        "paymentTerms": false
+      },
+      {
+        "id": "f9fba327-4379-4a86-afb5-6333777061ed",
+        "name": "Quo Lux",
+        "category": "Landscaping & Irrigation",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 25,
+        "paymentTerms": false
+      },
+      {
+        "id": "c3a9d793-2cae-4256-b501-41c93c43d370",
+        "name": "Home Ing",
+        "category": "Retaining Wall and Brick Pavers",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 97,
+        "paymentTerms": false
+      },
+      {
+        "id": "64fd3148-4d61-4850-86b2-d71f7e24cf5e",
+        "name": "Viva",
+        "category": "Ornamental Railings",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 37,
+        "paymentTerms": false
+      },
+      {
+        "id": "09245cd6-950d-47e7-be2a-85996eb7df46",
+        "name": "Keylex",
+        "category": "Construction Clean and Final Clean",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 75,
+        "paymentTerms": true
+      },
+      {
+        "id": "d2b8e4c6-4310-4057-9b24-0a518bb518b4",
+        "name": "Pannier",
+        "category": "Sitework & Site Utilities",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 36,
+        "paymentTerms": true
+      },
+      {
+        "id": "240ba725-782f-4c85-99a6-5991cf429133",
+        "name": "Zamit",
+        "category": "Asphalt Paving",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 45,
+        "paymentTerms": true
+      },
+      {
+        "id": "1270c6a9-fd1e-4db2-956c-7e355be8163e",
+        "name": "Gembucket",
+        "category": "Electrical",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 57,
+        "paymentTerms": false
+      }
+    ],
+    "totalSpend(YTD)": 26,
+    "activeContract": true,
+    "source": "Construction Clean and Final Clean",
+    "totalSpend(12Months)": 75,
+    "contractValue": 27
+  },
+  {
+    "id": "f00b5192-f73e-4263-9fc6-1978642a4ec2",
+    "profileImage": "http://dummyimage.com/221x156.png/ff4444/ffffff",
+    "name": "Gretta Ollerearnshaw",
+    "application": [
+      {
+        "id": "73c77fb0-01f1-4648-9be5-739463ced61a",
+        "name": "Namfix",
+        "category": "Landscaping & Irrigation",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 25,
+        "paymentTerms": false
+      },
+      {
+        "id": "546c63f8-ade2-45cd-90f9-6da09e2d7912",
+        "name": "Lotlux",
+        "category": "Epoxy Flooring",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 24,
+        "paymentTerms": true
+      },
+      {
+        "id": "ddeefb63-3b49-4a36-9690-37dc5d26fa02",
+        "name": "Gembucket",
+        "category": "Structural and Misc Steel (Fabrication)",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 47,
+        "paymentTerms": null
+      },
+      {
+        "id": "d9c6b818-e436-4165-8654-5af3f117e0ef",
+        "name": "Alphazap",
+        "category": "Curb & Gutter",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 35,
+        "paymentTerms": false
+      },
+      {
+        "id": "c591931f-f119-46c1-89ef-50c1834430e3",
+        "name": "Rank",
+        "category": "Casework",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 80,
+        "paymentTerms": false
+      },
+      {
+        "id": "f1ca2a8e-e6d4-40a9-81c2-2b7aee5a207b",
+        "name": "Bytecard",
+        "category": "Masonry & Precast",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 29,
+        "paymentTerms": true
+      },
+      {
+        "id": "fc5858b5-a8b3-4111-8c6d-477332541198",
+        "name": "Sub-Ex",
+        "category": "Sitework & Site Utilities",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 22,
+        "paymentTerms": true
+      },
+      {
+        "id": "10136e84-4f9b-4b5e-bb0b-1c328c9337f1",
+        "name": "Holdlamis",
+        "category": "Elevator",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 10,
+        "paymentTerms": null
+      },
+      {
+        "id": "6e71c3a9-b0a3-4e49-91a8-86e608271443",
+        "name": "Flexidy",
+        "category": "Painting & Vinyl Wall Covering",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 79,
+        "paymentTerms": true
+      },
+      {
+        "id": "089a224c-531b-4da7-9fa6-4a7076016e76",
+        "name": "Ronstring",
+        "category": "Roofing (Metal)",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 55,
+        "paymentTerms": true
+      },
+      {
+        "id": "927e85d6-a92a-4486-bdc0-a098153ebb8c",
+        "name": "Fix San",
+        "category": "Framing (Steel)",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 63,
+        "paymentTerms": true
+      },
+      {
+        "id": "0792d674-e193-48a3-aae6-01b6325f3af1",
+        "name": "Domainer",
+        "category": "Landscaping & Irrigation",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 91,
+        "paymentTerms": false
+      },
+      {
+        "id": "6258ad1b-5227-48c5-a659-3caa51fd33d2",
+        "name": "Stronghold",
+        "category": "Temp Fencing, Decorative Fencing and Gates",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 56,
+        "paymentTerms": true
+      },
+      {
+        "id": "26cf23e4-702d-4bfe-b45c-86c7a3d08aca",
+        "name": "Sub-Ex",
+        "category": "Masonry",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 88,
+        "paymentTerms": true
+      },
+      {
+        "id": "1accace1-3029-4b88-b8b6-fcb22cde0e34",
+        "name": "Namfix",
+        "category": "Framing (Steel)",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 71,
+        "paymentTerms": true
+      },
+      {
+        "id": "096b0cbe-0f28-47b7-962e-ac8e4b036ccc",
+        "name": "Bytecard",
+        "category": "Epoxy Flooring",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 37,
+        "paymentTerms": false
+      },
+      {
+        "id": "d9b03ce6-34f4-4085-af52-1852eb409e30",
+        "name": "Tresom",
+        "category": "Hard Tile & Stone",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 23,
+        "paymentTerms": false
+      }
+    ],
+    "totalSpend(YTD)": 50,
+    "activeContract": true,
+    "source": "Construction Clean and Final Clean",
+    "totalSpend(12Months)": 83,
+    "contractValue": 52
+  },
+  {
+    "id": "97417159-d7e9-425a-87e5-d898a4ea5120",
+    "profileImage": "http://dummyimage.com/101x213.png/dddddd/000000",
+    "name": "Taddeusz Ebden",
+    "application": [
+      {
+        "id": "11646114-efce-4ccb-bb40-e2b7a3a08ad4",
+        "name": "Zontrax",
+        "category": "Waterproofing & Caulking",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 88,
+        "paymentTerms": true
+      },
+      {
+        "id": "806a7d25-587e-4328-8c45-a91668e653f8",
+        "name": "Otcom",
+        "category": "Sitework & Site Utilities",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 8,
+        "paymentTerms": true
+      },
+      {
+        "id": "abf4fb32-7de7-499e-b14f-e2b30b7a6148",
+        "name": "Lotstring",
+        "category": "Wall Protection",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 59,
+        "paymentTerms": true
+      }
+    ],
+    "totalSpend(YTD)": 19,
+    "activeContract": true,
+    "source": "Soft Flooring and Base",
+    "totalSpend(12Months)": 40,
+    "contractValue": 66
+  },
+  {
+    "id": "5fab284c-8379-4f65-b3ba-177ca99526f5",
+    "profileImage": "http://dummyimage.com/137x121.png/5fa2dd/ffffff",
+    "name": "Felipa Flatley",
+    "application": null,
+    "totalSpend(YTD)": 24,
+    "activeContract": true,
+    "source": "Painting & Vinyl Wall Covering",
+    "totalSpend(12Months)": 71,
+    "contractValue": 73
+  },
+  {
+    "id": "210ecb8f-875a-49ab-bf3b-a0a6f9f66b7b",
+    "profileImage": "http://dummyimage.com/100x192.png/cc0000/ffffff",
+    "name": "Janeva Hoyles",
+    "application": [
+      {
+        "id": "edfe5547-03f7-467a-8e75-2b1312837e39",
+        "name": "Fintone",
+        "category": "Epoxy Flooring",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 85,
+        "paymentTerms": true
+      }
+    ],
+    "totalSpend(YTD)": 56,
+    "activeContract": true,
+    "source": "Epoxy Flooring",
+    "totalSpend(12Months)": 87,
+    "contractValue": 25
+  },
+  {
+    "id": "1883cc42-9676-4211-87ad-003e90111516",
+    "profileImage": "http://dummyimage.com/198x102.png/cc0000/ffffff",
+    "name": "Cynthia Winny",
+    "application": null,
+    "totalSpend(YTD)": 8,
+    "activeContract": true,
+    "source": "Electrical and Fire Alarm",
+    "totalSpend(12Months)": 50,
+    "contractValue": 64
+  },
+  {
+    "id": "00c63740-46ce-4506-b916-b9646d4dac52",
+    "profileImage": "http://dummyimage.com/232x130.png/5fa2dd/ffffff",
+    "name": "Katerine Defau",
+    "application": null,
+    "totalSpend(YTD)": 86,
+    "activeContract": false,
+    "source": "Electrical",
+    "totalSpend(12Months)": 78,
+    "contractValue": 52
+  },
+  {
+    "id": "623cb9c4-a0da-4876-b0ef-bf5586ba5bd1",
+    "profileImage": "http://dummyimage.com/242x149.png/ff4444/ffffff",
+    "name": "Mordy Saiz",
+    "application": [
+      {
+        "id": "18e217e3-5050-49c9-8c14-89229a4faf83",
+        "name": "Prodder",
+        "category": "Retaining Wall and Brick Pavers",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 9,
+        "paymentTerms": true
+      },
+      {
+        "id": "c6080134-ca2b-4d1f-b845-ad6047ffbf9d",
+        "name": "Alphazap",
+        "category": "Drilled Shafts",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 59,
+        "paymentTerms": false
+      },
+      {
+        "id": "023df3b2-920e-4d21-86d7-cb9b35186337",
+        "name": "Stim",
+        "category": "Construction Clean and Final Clean",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 49,
+        "paymentTerms": true
+      },
+      {
+        "id": "c9d5dc8a-3d40-4dc0-ad62-e76e4accaf65",
+        "name": "Fix San",
+        "category": "Fire Protection",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 74,
+        "paymentTerms": true
+      },
+      {
+        "id": "1a94d1af-7ebf-4dd1-9f1a-14757d652ffb",
+        "name": "Fix San",
+        "category": "Painting & Vinyl Wall Covering",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 22,
+        "paymentTerms": false
+      },
+      {
+        "id": "16c3b375-d2b0-4a01-931d-09c69c6d7b9c",
+        "name": "Opela",
+        "category": "Fire Sprinkler System",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 17,
+        "paymentTerms": true
+      },
+      {
+        "id": "ff7b6d91-e8cc-4253-a5f6-c0b85e4f2e2a",
+        "name": "Wrapsafe",
+        "category": "Fire Sprinkler System",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 38,
+        "paymentTerms": true
+      },
+      {
+        "id": "368c96fe-3858-4a3d-aff8-ff5a2dcd15b6",
+        "name": "Overhold",
+        "category": "Drywall & Acoustical (FED)",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 33,
+        "paymentTerms": true
+      },
+      {
+        "id": "d7488812-d9a8-4eed-975a-fc8293111dfb",
+        "name": "Zaam-Dox",
+        "category": "Wall Protection",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 77,
+        "paymentTerms": false
+      }
+    ],
+    "totalSpend(YTD)": 47,
+    "activeContract": false,
+    "source": "Plumbing & Medical Gas",
+    "totalSpend(12Months)": 92,
+    "contractValue": 62
+  },
+  {
+    "id": "ed52e8cc-a423-4a7d-8af9-3986bc137602",
+    "profileImage": "http://dummyimage.com/200x247.png/ff4444/ffffff",
+    "name": "Nannie Cardoo",
+    "application": [
+      {
+        "id": "63bcd7ed-bc45-45a5-bc36-45a43733de8f",
+        "name": "Lotlux",
+        "category": "Painting & Vinyl Wall Covering",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 56,
+        "paymentTerms": true
+      },
+      {
+        "id": "86fbfe75-13ab-4d96-b560-205d88dbbe9c",
+        "name": "Biodex",
+        "category": "Doors, Frames & Hardware",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 98,
+        "paymentTerms": false
+      },
+      {
+        "id": "d1c756af-3927-4f2e-bc76-fd0c7605ed11",
+        "name": "Bamity",
+        "category": "Soft Flooring and Base",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 60,
+        "paymentTerms": false
+      },
+      {
+        "id": "7e60ced9-0fc1-45fe-97c0-95462afe14a7",
+        "name": "Bitwolf",
+        "category": "Epoxy Flooring",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 64,
+        "paymentTerms": true
+      },
+      {
+        "id": "684fd310-357f-4eb1-b0a1-52d9605aa472",
+        "name": "Overhold",
+        "category": "Electrical",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 99,
+        "paymentTerms": null
+      },
+      {
+        "id": "804c9bad-7855-4706-893a-8d00177263ae",
+        "name": "Stringtough",
+        "category": "Doors, Frames & Hardware",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 77,
+        "paymentTerms": true
+      },
+      {
+        "id": "060a7938-07a7-40ac-a0c1-c9016d0d80a1",
+        "name": "Andalax",
+        "category": "Prefabricated Aluminum Metal Canopies",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 39,
+        "paymentTerms": false
+      },
+      {
+        "id": "ab1fc37a-5c2c-42f9-8632-ed63de11fa77",
+        "name": "Toughjoyfax",
+        "category": "Retaining Wall and Brick Pavers",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 57,
+        "paymentTerms": false
+      },
+      {
+        "id": "507ac0b5-46d9-47fd-b533-2add7acb49bd",
+        "name": "Namfix",
+        "category": "Elevator",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 85,
+        "paymentTerms": true
+      },
+      {
+        "id": "2447d5f9-63f0-489d-afcd-584bf4ad92cd",
+        "name": "Lotstring",
+        "category": "Plumbing & Medical Gas",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 85,
+        "paymentTerms": false
+      },
+      {
+        "id": "76405922-e0b7-4053-8f94-e013e6803a2b",
+        "name": "Wrapsafe",
+        "category": "HVAC",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 35,
+        "paymentTerms": true
+      },
+      {
+        "id": "8bc5ed62-4fb3-4b81-b577-2312e08a7078",
+        "name": "Tempsoft",
+        "category": "Granite Surfaces",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 56,
+        "paymentTerms": false
+      },
+      {
+        "id": "b6aa6dac-e2f5-4fa0-82be-4e7885d66434",
+        "name": "Cookley",
+        "category": "Overhead Doors",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 23,
+        "paymentTerms": false
+      },
+      {
+        "id": "176a29d1-b668-4207-bb62-c142e19422aa",
+        "name": "Mat Lam Tam",
+        "category": "Temp Fencing, Decorative Fencing and Gates",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 50,
+        "paymentTerms": false
+      },
+      {
+        "id": "a202948a-80d2-442d-8157-8175e9a54854",
+        "name": "Treeflex",
+        "category": "Casework",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 72,
+        "paymentTerms": true
+      },
+      {
+        "id": "bee81292-36f8-4000-bc17-0374d71391af",
+        "name": "Veribet",
+        "category": "Landscaping & Irrigation",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 91,
+        "paymentTerms": false
+      },
+      {
+        "id": "af6d4023-a58a-44e8-b9e0-e35a38b83cc8",
+        "name": "Bitwolf",
+        "category": "EIFS",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 93,
+        "paymentTerms": true
+      }
+    ],
+    "totalSpend(YTD)": 88,
+    "activeContract": false,
+    "source": "Painting & Vinyl Wall Covering",
+    "totalSpend(12Months)": 21,
+    "contractValue": 29
+  },
+  {
+    "id": "4f27fb63-b8e0-41ab-92f0-506234707e43",
+    "profileImage": "http://dummyimage.com/236x121.png/ff4444/ffffff",
+    "name": "Jedediah Frammingham",
+    "application": [
+      {
+        "id": "68e509cf-f41d-42f5-91a4-d4c74dc971e2",
+        "name": "Vagram",
+        "category": "Drilled Shafts",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 89,
+        "paymentTerms": null
+      },
+      {
+        "id": "d58cf2ff-f253-4cb5-a8de-d8ba4747e225",
+        "name": "Y-Solowarm",
+        "category": "Termite Control",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 39,
+        "paymentTerms": false
+      },
+      {
+        "id": "58febbf5-9a2b-42d2-833d-dd4a4725812e",
+        "name": "Fintone",
+        "category": "Drywall & Acoustical (FED)",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 74,
+        "paymentTerms": true
+      },
+      {
+        "id": "9de533b6-11ad-4e2a-b241-0bf5d9b46557",
+        "name": "Latlux",
+        "category": "Temp Fencing, Decorative Fencing and Gates",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 44,
+        "paymentTerms": true
+      },
+      {
+        "id": "39a99567-2387-4311-bcfc-202f833e7cb1",
+        "name": "Asoka",
+        "category": "Doors, Frames & Hardware",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 15,
+        "paymentTerms": true
+      },
+      {
+        "id": "1630a7bb-309b-42f8-b821-87a4ae225bc4",
+        "name": "Lotlux",
+        "category": "Casework",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 100,
+        "paymentTerms": false
+      },
+      {
+        "id": "f0955f45-8330-48fc-812e-22be2652b4b9",
+        "name": "Subin",
+        "category": "Sitework & Site Utilities",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 48,
+        "paymentTerms": false
+      },
+      {
+        "id": "f06e32b6-6d27-4a62-ae2a-905c2974f674",
+        "name": "Zontrax",
+        "category": "Construction Clean and Final Clean",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 76,
+        "paymentTerms": true
+      },
+      {
+        "id": "e252e29b-d22e-465f-b1de-1c0928d60a03",
+        "name": "Stringtough",
+        "category": "Doors, Frames & Hardware",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 91,
+        "paymentTerms": true
+      },
+      {
+        "id": "84051e42-b0b5-4a34-a963-c9723df5603d",
+        "name": "Biodex",
+        "category": "Glass & Glazing",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 45,
+        "paymentTerms": null
+      },
+      {
+        "id": "e8c14f6e-edde-44f3-8217-41264607c341",
+        "name": "Tres-Zap",
+        "category": "Drywall & Acoustical (FED)",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 6,
+        "paymentTerms": true
+      },
+      {
+        "id": "f7b8e9ec-c7bf-44cf-a797-6fc1374166b1",
+        "name": "It",
+        "category": "Wall Protection",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 80,
+        "paymentTerms": false
+      },
+      {
+        "id": "ec1007ff-9fa4-47eb-bb70-ee156a5f63fa",
+        "name": "Sonsing",
+        "category": "Retaining Wall and Brick Pavers",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 33,
+        "paymentTerms": false
+      },
+      {
+        "id": "b51bb5e9-da9b-4eac-a8aa-8e57a86556fd",
+        "name": "Ventosanzap",
+        "category": "Asphalt Paving",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 44,
+        "paymentTerms": true
+      }
+    ],
+    "totalSpend(YTD)": 36,
+    "activeContract": true,
+    "source": "Soft Flooring and Base",
+    "totalSpend(12Months)": 23,
+    "contractValue": 13
+  },
+  {
+    "id": "6ba564f0-873b-4573-bd90-7557934c31ce",
+    "profileImage": "http://dummyimage.com/250x164.png/5fa2dd/ffffff",
+    "name": "Pearce Kenworthey",
+    "application": [
+      {
+        "id": "1913b410-19b7-4715-b66a-681af18f3637",
+        "name": "Tempsoft",
+        "category": "Overhead Doors",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 57,
+        "paymentTerms": null
+      },
+      {
+        "id": "18e76962-af1f-4f9b-9141-ac9d4b60a36a",
+        "name": "Quo Lux",
+        "category": "Roofing (Asphalt)",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 70,
+        "paymentTerms": true
+      },
+      {
+        "id": "b6813db2-f9c2-4484-bda1-9280f5cb79a8",
+        "name": "Stronghold",
+        "category": "Masonry & Precast",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 28,
+        "paymentTerms": false
+      },
+      {
+        "id": "0364d7c4-1a39-4b32-beb4-3d181bcdac7f",
+        "name": "Fix San",
+        "category": "Exterior Signage",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 2,
+        "paymentTerms": null
+      },
+      {
+        "id": "a45c6ec2-a093-401f-a1f0-80476d74ee6e",
+        "name": "Y-find",
+        "category": "Landscaping & Irrigation",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 71,
+        "paymentTerms": true
+      },
+      {
+        "id": "ab738f84-5db6-4457-90ea-9ed5518b7114",
+        "name": "Latlux",
+        "category": "Elevator",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 26,
+        "paymentTerms": true
+      },
+      {
+        "id": "72e281dc-0fc0-4316-a6f7-b60c72fe0eb9",
+        "name": "Bytecard",
+        "category": "Painting & Vinyl Wall Covering",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 81,
+        "paymentTerms": false
+      },
+      {
+        "id": "77e0f0f2-49fe-45bd-9e81-85a5c40e8a31",
+        "name": "Flexidy",
+        "category": "Marlite Panels (FED)",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 11,
+        "paymentTerms": false
+      },
+      {
+        "id": "ae9d7f5e-5e1f-4873-ab91-b4d7b452fb44",
+        "name": "Tampflex",
+        "category": "Waterproofing & Caulking",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 73,
+        "paymentTerms": true
+      },
+      {
+        "id": "e00d350c-bb97-4730-ba7e-df461c70347a",
+        "name": "Gembucket",
+        "category": "Curb & Gutter",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 76,
+        "paymentTerms": true
+      },
+      {
+        "id": "c72b0981-b0b2-48a8-9f20-e72f71c20020",
+        "name": "Tampflex",
+        "category": "Exterior Signage",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 36,
+        "paymentTerms": false
+      },
+      {
+        "id": "ee40ddcf-5ea9-4dc2-93c9-6996076619eb",
+        "name": "Asoka",
+        "category": "Electrical",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 11,
+        "paymentTerms": false
+      },
+      {
+        "id": "160a6e70-c235-4950-9135-9d0ad8ed1d34",
+        "name": "Bytecard",
+        "category": "Granite Surfaces",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 64,
+        "paymentTerms": false
+      },
+      {
+        "id": "b70aa2c5-4886-4bd8-a580-e208c0130c36",
+        "name": "Fintone",
+        "category": "Construction Clean and Final Clean",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 39,
+        "paymentTerms": false
+      }
+    ],
+    "totalSpend(YTD)": 74,
+    "activeContract": true,
+    "source": "Site Furnishings",
+    "totalSpend(12Months)": 87,
+    "contractValue": 58
+  },
+  {
+    "id": "ff2d2406-4b1b-4f9a-bcbc-ab40f92a43b0",
+    "profileImage": "http://dummyimage.com/174x233.png/5fa2dd/ffffff",
+    "name": "Ollie Skoyles",
+    "application": null,
+    "totalSpend(YTD)": 12,
+    "activeContract": true,
+    "source": "Fire Protection",
+    "totalSpend(12Months)": 6,
+    "contractValue": 35
+  },
+  {
+    "id": "4ffac2b5-0106-46d5-8b88-04bc197f4d7a",
+    "profileImage": "http://dummyimage.com/159x140.png/5fa2dd/ffffff",
+    "name": "Kissie Sunock",
+    "application": null,
+    "totalSpend(YTD)": 56,
+    "activeContract": false,
+    "source": "Fire Sprinkler System",
+    "totalSpend(12Months)": 12,
+    "contractValue": 18
+  },
+  {
+    "id": "0024cd15-a66d-45bc-9c71-9dd388b113d8",
+    "profileImage": "http://dummyimage.com/132x162.png/cc0000/ffffff",
+    "name": "Janeta Cadany",
+    "application": [
+      {
+        "id": "05fde18b-ef3f-4e67-884b-63a1cce0f745",
+        "name": "Andalax",
+        "category": "Ornamental Railings",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 38,
+        "paymentTerms": true
+      },
+      {
+        "id": "1782f8f2-51a6-47ca-96d4-8739b5f2d4ee",
+        "name": "Fixflex",
+        "category": "Temp Fencing, Decorative Fencing and Gates",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 64,
+        "paymentTerms": true
+      },
+      {
+        "id": "6b234c71-d3e8-4789-b9e8-66ea60d5b33c",
+        "name": "Otcom",
+        "category": "Landscaping & Irrigation",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 60,
+        "paymentTerms": null
+      },
+      {
+        "id": "748717e1-75aa-4230-a817-d3bd7599bb61",
+        "name": "Domainer",
+        "category": "Masonry",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 55,
+        "paymentTerms": true
+      },
+      {
+        "id": "dcd83a91-d9aa-4625-902f-4e25c93b725f",
+        "name": "Regrant",
+        "category": "Site Furnishings",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 100,
+        "paymentTerms": null
+      },
+      {
+        "id": "d22961fd-4c86-40b6-8f1b-7bcf2c0ce226",
+        "name": "Tempsoft",
+        "category": "Framing (Wood)",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 7,
+        "paymentTerms": false
+      },
+      {
+        "id": "a83aac79-acdd-4f61-8b42-9692349702b4",
+        "name": "Aerified",
+        "category": "Termite Control",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 77,
+        "paymentTerms": false
+      },
+      {
+        "id": "5c4e8a43-2af3-4a77-84bb-04ce0a7548d6",
+        "name": "Stringtough",
+        "category": "Rebar & Wire Mesh Install",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 44,
+        "paymentTerms": true
+      },
+      {
+        "id": "c2482a07-962b-4061-8141-05688c9d61e7",
+        "name": "Tresom",
+        "category": "Electrical and Fire Alarm",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 23,
+        "paymentTerms": true
+      },
+      {
+        "id": "21b1af6a-102a-425b-8783-edfa61fe9af3",
+        "name": "Hatity",
+        "category": "Waterproofing & Caulking",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 65,
+        "paymentTerms": true
+      }
+    ],
+    "totalSpend(YTD)": 59,
+    "activeContract": false,
+    "source": "Temp Fencing, Decorative Fencing and Gates",
+    "totalSpend(12Months)": 63,
+    "contractValue": 98
+  },
+  {
+    "id": "8e6320ae-810a-4efb-aa16-06a1e9ec667a",
+    "profileImage": "http://dummyimage.com/220x198.png/cc0000/ffffff",
+    "name": "Lancelot Blint",
+    "application": null,
+    "totalSpend(YTD)": 58,
+    "activeContract": true,
+    "source": "Epoxy Flooring",
+    "totalSpend(12Months)": 91,
+    "contractValue": 46
+  },
+  {
+    "id": "64f3a7a7-7a30-460d-ba44-685e51840500",
+    "profileImage": "http://dummyimage.com/159x116.png/ff4444/ffffff",
+    "name": "Peyton McHenry",
+    "application": [
+      {
+        "id": "935e451a-3f3f-44b6-bb99-2a19331d2107",
+        "name": "Gembucket",
+        "category": "Structural and Misc Steel (Fabrication)",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 56,
+        "paymentTerms": true
+      },
+      {
+        "id": "61949e97-3111-4f75-a5db-fc86d3c7f30c",
+        "name": "Overhold",
+        "category": "Epoxy Flooring",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 63,
+        "paymentTerms": false
+      },
+      {
+        "id": "a28040e8-7997-4062-a35c-6d66a213e8de",
+        "name": "Namfix",
+        "category": "Sitework & Site Utilities",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 65,
+        "paymentTerms": null
+      },
+      {
+        "id": "b89ccca2-3a68-4045-ae1d-52ffd81c7933",
+        "name": "Aerified",
+        "category": "Roofing (Asphalt)",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 95,
+        "paymentTerms": true
+      },
+      {
+        "id": "84962667-83b1-4e84-8a14-b4c0d1b26f01",
+        "name": "Zathin",
+        "category": "Prefabricated Aluminum Metal Canopies",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 9,
+        "paymentTerms": true
+      },
+      {
+        "id": "8e61bf92-758e-4f0f-bbe8-a0e7942545f5",
+        "name": "Voyatouch",
+        "category": "Drilled Shafts",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 95,
+        "paymentTerms": false
+      },
+      {
+        "id": "5d7cb7c3-2776-4cf1-bb9e-9d30b9060876",
+        "name": "Tampflex",
+        "category": "Structural and Misc Steel (Fabrication)",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 83,
+        "paymentTerms": false
+      },
+      {
+        "id": "e15f9c17-d214-4207-8c64-72965ecbaa01",
+        "name": "Sonsing",
+        "category": "Drywall & Acoustical (FED)",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 63,
+        "paymentTerms": false
+      },
+      {
+        "id": "2538ba16-5c8f-4ff1-8a69-40a844bfd37a",
+        "name": "Konklab",
+        "category": "Elevator",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 72,
+        "paymentTerms": true
+      },
+      {
+        "id": "c582d831-67b8-4e68-a83a-8754a862d128",
+        "name": "Flexidy",
+        "category": "Masonry",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 31,
+        "paymentTerms": true
+      },
+      {
+        "id": "eb5a72c9-3806-40a3-b10d-efc0c11fdfbb",
+        "name": "Otcom",
+        "category": "Prefabricated Aluminum Metal Canopies",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 1,
+        "paymentTerms": true
+      },
+      {
+        "id": "f5a11ff5-ea85-4d40-a6b8-6c737b4a5805",
+        "name": "Trippledex",
+        "category": "Landscaping & Irrigation",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 88,
+        "paymentTerms": true
+      },
+      {
+        "id": "6d296df2-31e4-4d00-89b9-1e76f2a5b05a",
+        "name": "Trippledex",
+        "category": "Fire Protection",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 67,
+        "paymentTerms": true
+      },
+      {
+        "id": "03bc34f9-4627-406e-9301-217ca4e959a1",
+        "name": "Rank",
+        "category": "Temp Fencing, Decorative Fencing and Gates",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 5,
+        "paymentTerms": true
+      },
+      {
+        "id": "55e5587e-c088-46c2-a528-39d49b56bc74",
+        "name": "Zontrax",
+        "category": "Structural & Misc Steel Erection",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 90,
+        "paymentTerms": false
+      },
+      {
+        "id": "f4673db1-5449-4191-94d4-4be5de3bec1f",
+        "name": "Wrapsafe",
+        "category": "Asphalt Paving",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 84,
+        "paymentTerms": false
+      },
+      {
+        "id": "1805fc03-6390-449a-94c5-1e2e96dcfa7d",
+        "name": "Andalax",
+        "category": "Elevator",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 28,
+        "paymentTerms": false
+      },
+      {
+        "id": "418dbcae-6471-43e8-bff8-b80173d660ad",
+        "name": "Zaam-Dox",
+        "category": "Drilled Shafts",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 12,
+        "paymentTerms": true
+      }
+    ],
+    "totalSpend(YTD)": 53,
+    "activeContract": false,
+    "source": "Soft Flooring and Base",
+    "totalSpend(12Months)": 34,
+    "contractValue": 22
+  },
+  {
+    "id": "291eb226-4bd3-4959-99cb-6dc709cb5f22",
+    "profileImage": "http://dummyimage.com/239x140.png/cc0000/ffffff",
+    "name": "Cleavland Caddy",
+    "application": [
+      {
+        "id": "9ee251ac-115e-429f-886f-61fa030113c1",
+        "name": "Bigtax",
+        "category": "Curb & Gutter",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 89,
+        "paymentTerms": true
+      },
+      {
+        "id": "e435a4e0-1ec1-4765-bf17-a234aee1ab46",
+        "name": "Lotstring",
+        "category": "Framing (Wood)",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 94,
+        "paymentTerms": null
+      },
+      {
+        "id": "4250332d-e22b-44d8-b1bb-33e06a69c759",
+        "name": "Voyatouch",
+        "category": "Marlite Panels (FED)",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 47,
+        "paymentTerms": null
+      },
+      {
+        "id": "57d98328-b6bd-4947-b638-fcfd041ba43f",
+        "name": "Duobam",
+        "category": "Framing (Wood)",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 42,
+        "paymentTerms": true
+      },
+      {
+        "id": "151788b9-ebd9-4a5e-bab3-c78e44d16aee",
+        "name": "Tres-Zap",
+        "category": "Wall Protection",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 2,
+        "paymentTerms": true
+      }
+    ],
+    "totalSpend(YTD)": 37,
+    "activeContract": true,
+    "source": "Roofing (Asphalt)",
+    "totalSpend(12Months)": 52,
+    "contractValue": 74
+  },
+  {
+    "id": "33b70f10-8ce4-4a5d-8a98-ca68ba40ab49",
+    "profileImage": "http://dummyimage.com/144x140.png/ff4444/ffffff",
+    "name": "Sydney Ruste",
+    "application": [
+      {
+        "id": "b1d95b1e-1074-4c6b-8a2c-41b2cafdd536",
+        "name": "Otcom",
+        "category": "Fire Sprinkler System",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 13,
+        "paymentTerms": true
+      },
+      {
+        "id": "041e583b-e3fa-436f-be17-b2d9126b9aae",
+        "name": "Prodder",
+        "category": "Curb & Gutter",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 28,
+        "paymentTerms": false
+      },
+      {
+        "id": "72402578-96a2-423f-bd8d-731ef30cbc8f",
+        "name": "Rank",
+        "category": "Drywall & Acoustical (FED)",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 22,
+        "paymentTerms": false
+      },
+      {
+        "id": "51476d1f-72b9-41fa-a68c-cec4deeed3a4",
+        "name": "Cookley",
+        "category": "Electrical",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 69,
+        "paymentTerms": false
+      },
+      {
+        "id": "95d0a431-d659-4077-a512-3fe878b32451",
+        "name": "Bamity",
+        "category": "Electrical",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 4,
+        "paymentTerms": false
+      },
+      {
+        "id": "07b36986-d08f-464f-8046-923058855b48",
+        "name": "Kanlam",
+        "category": "EIFS",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 16,
+        "paymentTerms": false
+      },
+      {
+        "id": "8776c29e-b045-4fcf-8255-e4109e85f57f",
+        "name": "Sub-Ex",
+        "category": "Masonry",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 12,
+        "paymentTerms": true
+      },
+      {
+        "id": "7bf95688-7e0d-4499-a5f9-0c15235c615d",
+        "name": "Latlux",
+        "category": "Fire Protection",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 62,
+        "paymentTerms": false
+      },
+      {
+        "id": "3a81d330-b112-4f20-a9e8-75de5438360c",
+        "name": "Daltfresh",
+        "category": "HVAC",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 66,
+        "paymentTerms": true
+      }
+    ],
+    "totalSpend(YTD)": 66,
+    "activeContract": false,
+    "source": "Ornamental Railings",
+    "totalSpend(12Months)": 62,
+    "contractValue": 2
+  },
+  {
+    "id": "dd08033c-c478-4962-8ee6-a1b173265dc0",
+    "profileImage": "http://dummyimage.com/192x157.png/cc0000/ffffff",
+    "name": "Kristos McGrann",
+    "application": [
+      {
+        "id": "2c4766ce-2fba-468c-bfeb-9fc2a786a19c",
+        "name": "Tempsoft",
+        "category": "Prefabricated Aluminum Metal Canopies",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 58,
+        "paymentTerms": true
+      },
+      {
+        "id": "edb1ae3e-d136-4ac7-94a4-2a035af1c2e5",
+        "name": "Fix San",
+        "category": "Prefabricated Aluminum Metal Canopies",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 87,
+        "paymentTerms": false
+      },
+      {
+        "id": "91cfbe50-98dd-4ece-bc55-96dab13caaa6",
+        "name": "Stronghold",
+        "category": "Structural & Misc Steel Erection",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 100,
+        "paymentTerms": false
+      },
+      {
+        "id": "3d96ff11-b991-4004-9313-d741841a1ebf",
+        "name": "Zaam-Dox",
+        "category": "Waterproofing & Caulking",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 11,
+        "paymentTerms": false
+      },
+      {
+        "id": "a25cc697-5613-475b-90fe-65b1ffe319a6",
+        "name": "Bigtax",
+        "category": "Plumbing & Medical Gas",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 29,
+        "paymentTerms": false
+      },
+      {
+        "id": "86518a91-cbd4-4ee9-943c-3091b54e9f02",
+        "name": "Cookley",
+        "category": "Retaining Wall and Brick Pavers",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 17,
+        "paymentTerms": false
+      },
+      {
+        "id": "4e7a4717-2850-4ac8-945a-fe9f195460c5",
+        "name": "Voltsillam",
+        "category": "Termite Control",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 73,
+        "paymentTerms": true
+      },
+      {
+        "id": "51f81c79-0b23-42eb-aa46-ceb14e023fbd",
+        "name": "Alpha",
+        "category": "Roofing (Asphalt)",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 99,
+        "paymentTerms": true
+      },
+      {
+        "id": "564982d7-ce3a-4ca9-a819-9c8212eadec6",
+        "name": "Job",
+        "category": "Overhead Doors",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 100,
+        "paymentTerms": true
+      },
+      {
+        "id": "d6b936a2-5917-40c7-a7e1-c00527dbf30f",
+        "name": "Namfix",
+        "category": "Framing (Wood)",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 93,
+        "paymentTerms": false
+      },
+      {
+        "id": "15756eca-bf60-4e12-90b0-958e735c9863",
+        "name": "Ventosanzap",
+        "category": "Masonry & Precast",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 82,
+        "paymentTerms": false
+      },
+      {
+        "id": "59d53239-1e9a-426b-8ccc-df9722b6dc22",
+        "name": "Voltsillam",
+        "category": "Waterproofing & Caulking",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 28,
+        "paymentTerms": false
+      },
+      {
+        "id": "fd9186c7-5af4-42de-9acc-3148527f9001",
+        "name": "Span",
+        "category": "Marlite Panels (FED)",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 33,
+        "paymentTerms": true
+      },
+      {
+        "id": "f4204163-f0ba-4e59-8fae-1ada18e6d196",
+        "name": "Fix San",
+        "category": "Asphalt Paving",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 69,
+        "paymentTerms": true
+      },
+      {
+        "id": "ae56a483-e243-4567-8f0d-196d47bb886e",
+        "name": "Greenlam",
+        "category": "EIFS",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 12,
+        "paymentTerms": false
+      },
+      {
+        "id": "b5a02dbb-6677-4592-a924-727853bf6ea4",
+        "name": "Cardify",
+        "category": "EIFS",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 98,
+        "paymentTerms": false
+      },
+      {
+        "id": "ffaf9aac-59ec-4c83-bd09-1486ba763da9",
+        "name": "Lotstring",
+        "category": "Electrical",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 81,
+        "paymentTerms": null
+      }
+    ],
+    "totalSpend(YTD)": 55,
+    "activeContract": false,
+    "source": "Masonry & Precast",
+    "totalSpend(12Months)": 46,
+    "contractValue": 38
+  },
+  {
+    "id": "2261723a-2888-4d4a-adbb-7e1a3d7ac4c0",
+    "profileImage": "http://dummyimage.com/159x122.png/5fa2dd/ffffff",
+    "name": "Madge Whalley",
+    "application": [
+      {
+        "id": "bb67a6da-7159-4348-a1ba-87b46ff29ecd",
+        "name": "Zoolab",
+        "category": "Construction Clean and Final Clean",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 51,
+        "paymentTerms": false
+      },
+      {
+        "id": "a20c1f53-d76c-49dd-a7f8-d26eb214af52",
+        "name": "Ronstring",
+        "category": "Casework",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 86,
+        "paymentTerms": false
+      },
+      {
+        "id": "fe12303d-6352-4cb3-ac4f-e8ef409e4451",
+        "name": "Lotlux",
+        "category": "Structural and Misc Steel (Fabrication)",
+        "licenseBought": true,
+        "appCovered": false,
+        "billingFrequency": 86,
+        "paymentTerms": true
+      },
+      {
+        "id": "8bb818a7-21b4-4dc7-8644-efce80481e9e",
+        "name": "Bytecard",
+        "category": "Sitework & Site Utilities",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 95,
+        "paymentTerms": false
+      },
+      {
+        "id": "4b93430e-a664-4790-935b-f811131a0506",
+        "name": "Mat Lam Tam",
+        "category": "Wall Protection",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 100,
+        "paymentTerms": false
+      },
+      {
+        "id": "1ce0dd4a-c6fb-4765-b97d-34607859a832",
+        "name": "Sub-Ex",
+        "category": "Termite Control",
+        "licenseBought": false,
+        "appCovered": false,
+        "billingFrequency": 7,
+        "paymentTerms": true
+      },
+      {
+        "id": "89bb6d8f-3b3f-40ee-bb1d-b5ffa228851a",
+        "name": "Y-find",
+        "category": "Epoxy Flooring",
+        "licenseBought": true,
+        "appCovered": true,
+        "billingFrequency": 1,
+        "paymentTerms": false
+      },
+      {
+        "id": "9718e716-2c46-446e-99a0-f432d4f08901",
+        "name": "Zathin",
+        "category": "Landscaping & Irrigation",
+        "licenseBought": false,
+        "appCovered": true,
+        "billingFrequency": 60,
+        "paymentTerms": true
+      }
+    ],
+    "totalSpend(YTD)": 16,
+    "activeContract": true,
+    "source": "Casework",
+    "totalSpend(12Months)": 72,
+    "contractValue": 32
+  },
+  {
+    "id": "edddfb95-32af-41d7-8670-d5464716efb2",
+    "profileImage": "http://dummyimage.com/248x222.png/ff4444/ffffff",
+    "name": "Pauli Dupoy",
+    "application": [],
+    "totalSpend(YTD)": 48,
+    "activeContract": false,
+    "source": "Construction Clean and Final Clean",
+    "totalSpend(12Months)": 52,
+    "contractValue": 14
+  }
+]
